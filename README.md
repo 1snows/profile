@@ -37,7 +37,7 @@ idioma: "Español (nativo) · Inglés (C1)"
 ## 🧰 Stack actual
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,nixos,linux,html,css,bash,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,nix,linux,html,css,bash,git,github&theme=dark" />
 </div>
 
 <br>
@@ -140,7 +140,7 @@ Ruta de aprendizaje pensada para llegar con buenas bases a programación de sist
 ### 📫 Conecta conmigo
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-22c55e?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portfolio.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU-USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1snows)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0f172a&height=100&section=footer" width="100%"/>
 
