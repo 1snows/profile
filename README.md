@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:22c55e&height=200&section=header&text=¡Hola,%20soy%20Tu%20Nombre!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aprendiz%20de%20Programación%20%7C%20Python%20%7C%20NixOS&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:22c55e&height=200&section=header&text=¡Hola,%20soy%20Juni!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aprendiz%20de%20Programación%20%7C%20Python%20%7C%20NixOS&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Aprendiendo+Python+%F0%9F%90%8D;Configurando+mi+sistema+en+NixOS+%E2%9D%84%EF%B8%8F;Explorando+el+mundo+Linux+%F0%9F%90%A7;Construyendo+con+HTML+%2B+CSS+%F0%9F%8E%A8;Rumbo+a+Rust+%F0%9F%A6%80" alt="Typing SVG" />
