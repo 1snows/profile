@@ -31,7 +31,7 @@ sistema_operativo: "NixOS ❄️"
 idioma: "Español (nativo) · Inglés (C1)"
 ```
 
-- 🌱 Actualmente aprendiendo **Python** y configurando mi entorno en **NixOS**
+- 🌱 Actualmente aprendiendo **Python**, experimentando con **github** y configurando mi entorno en **NixOS** 
 ---
 
 ## 🧰 Stack actual
@@ -66,7 +66,7 @@ idioma: "Español (nativo) · Inglés (C1)"
 **❄️ NixOS**
 `██████████░░░░░░░░░░` 50%
 
-**🐧 Linux (shell, sysadmin básico)**
+**🐧 Linux (shell)**
 `█████████████░░░░░░░` 65%
 
 **🎨 HTML + CSS**
@@ -101,7 +101,7 @@ Ruta de aprendizaje pensada para llegar con buenas bases a programación de sist
 </div>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,nixos,bash,html,css,js,c,go,rust&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,nix,bash,html,css,js,c,go,rust&theme=dark" />
 </div>
 
 ### 📌 Por qué esta ruta
@@ -118,10 +118,10 @@ Ruta de aprendizaje pensada para llegar con buenas bases a programación de sist
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=1snows&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1snows&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&theme=github-dark-blue&hide_border=true" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=1snows&theme=github-dark-blue&hide_border=true" width="60%" />
 
 </div>
 
@@ -144,6 +144,5 @@ Ruta de aprendizaje pensada para llegar con buenas bases a programación de sist
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0f172a&height=100&section=footer" width="100%"/>
 
-**"Cada línea de código es un paso más cerca de dominar el sistema." 🐧🦀**
 
 </div>
